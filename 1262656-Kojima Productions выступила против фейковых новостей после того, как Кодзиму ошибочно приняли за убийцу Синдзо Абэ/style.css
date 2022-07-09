@@ -589,9 +589,7 @@ img {
     margin: 12px 0;
 }
 .content-image {
-    --background-color: rgba(0,0,0,0.08);
     --offset-y: var(--offset, 0);
-    background-color: var(--background-color);
     -ms-flex-pack: center;
     justify-content: center;
     padding: var(--offset-y) 0;
